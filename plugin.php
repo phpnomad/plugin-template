@@ -1,9 +1,9 @@
 <?php
 /*
- * Plugin Name: Lighthouse By Novatorius
- * Description: Core directory functionality and search functionality.
- * Author: Novatorius, LLC
- * Author URI: https://novatori.us
+ * Plugin Name: Plugin Name
+ * Description: Plugin Functionality.
+ * Author: Author
+ * Author URI: URI
  * Version: 0.0.1
  */
 
